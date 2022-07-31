@@ -1,0 +1,1865 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6d7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.43121416,
+                    38.12406304
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150368405,
+                "olay_numarasi": "20226802837",
+                "adi": "AKSARAY - ESKİL Çölleşme",
+                "olay_turu_id": 1150,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-21T09:45:43Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 68,
+                "ilce_uavt_code": 1921,
+                "mahalle_uavt_code": 90035,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "otomatik test SYSTEM CHECKOUT olayı45150",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050404,
+                "kayit_tarihi": "2022-07-21T09:46:36.248Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Çölleşme",
+                "il_adi": "AKSARAY",
+                "ilce_adi": "ESKİL",
+                "mahalle_adi": "HÜRRİYET",
+                "olay_tarihi_local": "2022-07-21T12:45:43Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6d6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3388,
+                    40.8365
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150368333,
+                "olay_numarasi": "20228100001",
+                "adi": "Düzce - Merkez - DEPREM",
+                "olay_turu_id": 1042,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-20T22:49:40Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 81,
+                "ilce_uavt_code": 1292,
+                "mahalle_uavt_code": 97590,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": null,
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": null,
+                "kayit_tarihi": "2022-07-20T22:58:00.365Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Deprem",
+                "il_adi": "DÜZCE",
+                "ilce_adi": "MERKEZ",
+                "mahalle_adi": "FINDIKLI AKSU",
+                "olay_tarihi_local": "2022-07-21T01:49:40Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6d5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3063,
+                    35.0178
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150368269,
+                "olay_numarasi": "2022YD00460",
+                "adi": "Yunanistan - Heraklion - DEPREM",
+                "olay_turu_id": 1042,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-20T12:00:59Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 15291,
+                "ilce_uavt_code": null,
+                "mahalle_uavt_code": null,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": null,
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 3,
+                "kullanici_id": null,
+                "kayit_tarihi": "2022-07-20T12:14:53.432Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Deprem",
+                "il_adi": null,
+                "ilce_adi": null,
+                "mahalle_adi": null,
+                "olay_tarihi_local": "2022-07-20T15:00:59Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6d4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.60553836,
+                    38.5813925
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150148174,
+                "olay_numarasi": "20225000001",
+                "adi": "NEVŞEHİR - ACIGÖL Aşırı Sıcak",
+                "olay_turu_id": 1144,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-19T15:31:10Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 50,
+                "ilce_uavt_code": 1749,
+                "mahalle_uavt_code": 64767,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "test tugce",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050379,
+                "kayit_tarihi": "2022-04-27T15:33:06.952Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Aşırı Sıcak",
+                "il_adi": "NEVŞEHİR",
+                "ilce_adi": "ACIGÖL",
+                "mahalle_adi": "ACIGÖL-NEVŞEHİR (KARACAÖREN)",
+                "olay_tarihi_local": "2022-07-19T18:31:10Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6d3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.67335694,
+                    40.38587876
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150368060,
+                "olay_numarasi": "20225200003",
+                "adi": "Ordu - Mesudiye Aşırı Sıcak",
+                "olay_turu_id": 1144,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-19T11:45:21Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 52,
+                "ilce_uavt_code": 1525,
+                "mahalle_uavt_code": 151719,
+                "afad_mudahale_durumu": true,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "afad m",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-19T11:46:05.180Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Aşırı Sıcak",
+                "il_adi": "Ordu",
+                "ilce_adi": "Mesudiye",
+                "mahalle_adi": "Çardaklı Mh.",
+                "olay_tarihi_local": "2022-07-19T14:45:21Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6d2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.30532627,
+                    40.95861771
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150367902,
+                "olay_numarasi": "20221900006",
+                "adi": "ÇORUM - İSKİLİP Aşırı Kar Tipi Yağışı",
+                "olay_turu_id": 1134,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-18T14:28:44Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 19,
+                "ilce_uavt_code": 1414,
+                "mahalle_uavt_code": 24294,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "bnmö",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-18T14:29:03.215Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Aşırı Kar Tipi Yağışı",
+                "il_adi": "ÇORUM",
+                "ilce_adi": "İSKİLİP",
+                "mahalle_adi": "CUHALAR (GÜNEYALUÇ)",
+                "olay_tarihi_local": "2022-07-18T17:28:44Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6d1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6728,
+                    39.2713
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150367719,
+                "olay_numarasi": "20224500010",
+                "adi": "Manisa - Soma - DEPREM",
+                "olay_turu_id": 1042,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-17T14:55:39Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 45,
+                "ilce_uavt_code": 1634,
+                "mahalle_uavt_code": 155813,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": null,
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": null,
+                "kayit_tarihi": "2022-07-17T15:02:00.384Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Deprem",
+                "il_adi": "MANİSA",
+                "ilce_adi": "SOMA",
+                "mahalle_adi": "KOZLUÖREN",
+                "olay_tarihi_local": "2022-07-17T17:55:39Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6d0",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9076,
+                    39.213
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150367679,
+                "olay_numarasi": "2022YD00459",
+                "adi": "Yunanistan - Arta - DEPREM",
+                "olay_turu_id": 1042,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-17T09:21:57Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 15227,
+                "ilce_uavt_code": null,
+                "mahalle_uavt_code": null,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": null,
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 3,
+                "kullanici_id": null,
+                "kayit_tarihi": "2022-07-17T09:37:00.401Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Deprem",
+                "il_adi": null,
+                "ilce_adi": null,
+                "mahalle_adi": null,
+                "olay_tarihi_local": "2022-07-17T12:21:57Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6cf",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8996,
+                    35.4905
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150366915,
+                "olay_numarasi": "2022DZ00031",
+                "adi": "Ege Denizi, 20.19 km.Lasithi (Yunanistan), 186.90 km. Datça (Mugla) - DEPREM",
+                "olay_turu_id": 1042,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-13T11:20:01Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 260,
+                "ilce_uavt_code": null,
+                "mahalle_uavt_code": null,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": null,
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 4,
+                "kullanici_id": null,
+                "kayit_tarihi": "2022-07-13T11:28:54.186Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Deprem",
+                "il_adi": null,
+                "ilce_adi": null,
+                "mahalle_adi": null,
+                "olay_tarihi_local": "2022-07-13T14:20:01Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6ce",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.8376,
+                    41.1843
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150366536,
+                "olay_numarasi": "2022YD00458",
+                "adi": "Gürcistan - Ninotsminda - DEPREM",
+                "olay_turu_id": 1042,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-11T08:10:53Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 13969,
+                "ilce_uavt_code": null,
+                "mahalle_uavt_code": null,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": null,
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 3,
+                "kullanici_id": null,
+                "kayit_tarihi": "2022-07-11T08:22:00.408Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Deprem",
+                "il_adi": null,
+                "ilce_adi": null,
+                "mahalle_adi": null,
+                "olay_tarihi_local": "2022-07-11T11:10:53Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6cd",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.8203,
+                    41.1721
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150366511,
+                "olay_numarasi": "2022YD00457",
+                "adi": "Gürcistan - Ninotsminda - DEPREM",
+                "olay_turu_id": 1042,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-11T06:36:22Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 13969,
+                "ilce_uavt_code": null,
+                "mahalle_uavt_code": null,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": null,
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 3,
+                "kullanici_id": null,
+                "kayit_tarihi": "2022-07-11T06:47:00.236Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Deprem",
+                "il_adi": null,
+                "ilce_adi": null,
+                "mahalle_adi": null,
+                "olay_tarihi_local": "2022-07-11T09:36:22Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6cc",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.5955,
+                    38.883
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150366351,
+                "olay_numarasi": "20226500006",
+                "adi": "Van - Tusba - DEPREM",
+                "olay_turu_id": 1042,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-10T12:37:12Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 65,
+                "ilce_uavt_code": 2099,
+                "mahalle_uavt_code": 158587,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": null,
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": null,
+                "kayit_tarihi": "2022-07-10T12:46:00.308Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Deprem",
+                "il_adi": "VAN",
+                "ilce_adi": "TUŞBA",
+                "mahalle_adi": "SAĞLAMTAŞ",
+                "olay_tarihi_local": "2022-07-10T15:37:12Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6cb",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.12109541,
+                    40.57399029
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365809,
+                "olay_numarasi": "20225400061",
+                "adi": "SAKARYA - PAMUKOVA Dolu Yağışı",
+                "olay_turu_id": 1139,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-07T10:48:38Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 54,
+                "ilce_uavt_code": 1833,
+                "mahalle_uavt_code": 185485,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "affa",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-07T10:48:51.035Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Dolu Yağışı",
+                "il_adi": "SAKARYA",
+                "ilce_adi": "PAMUKOVA",
+                "mahalle_adi": "GONCA",
+                "olay_tarihi_local": "2022-07-07T13:48:38Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6ca",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.05825916,
+                    38.95631957
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365687,
+                "olay_numarasi": "20224300013",
+                "adi": "KÜTAHYA - SİMAV Metan Gazı Sızıntısı ",
+                "olay_turu_id": 1279,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:15:36Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 43,
+                "ilce_uavt_code": 1625,
+                "mahalle_uavt_code": 51631,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "dhhhhhhhh",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:25:41.402Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Metan Gazı Sızıntısı ",
+                "il_adi": "KÜTAHYA",
+                "ilce_adi": "SİMAV",
+                "mahalle_adi": "KADILAR",
+                "olay_tarihi_local": "2022-07-06T20:15:36Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6c9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.83613609,
+                    39.07773315
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365685,
+                "olay_numarasi": "20224500009",
+                "adi": "MANİSA - DEMİRCİ Kıyı Yenilmesi",
+                "olay_turu_id": 1167,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:15:04Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 45,
+                "ilce_uavt_code": 1269,
+                "mahalle_uavt_code": 154081,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "xhgfxh",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:15:25.679Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Kıyı Yenilmesi",
+                "il_adi": "MANİSA",
+                "ilce_adi": "DEMİRCİ",
+                "mahalle_adi": "KARGINIŞIKLAR",
+                "olay_tarihi_local": "2022-07-06T20:15:04Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6c8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.95580827,
+                    39.00441685
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365684,
+                "olay_numarasi": "20224300012",
+                "adi": "KÜTAHYA - SİMAV Hayvansal Mikrobiyolojik İstila",
+                "olay_turu_id": 1175,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:14:35Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 43,
+                "ilce_uavt_code": 1625,
+                "mahalle_uavt_code": 55379,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "xhxfg",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:14:49.395Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Hayvansal Mikrobiyolojik İstila",
+                "il_adi": "KÜTAHYA",
+                "ilce_adi": "SİMAV",
+                "mahalle_adi": "KÖYÜN KENDİSİ (PULLUCA)",
+                "olay_tarihi_local": "2022-07-06T20:14:35Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6c7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.91449509,
+                    38.9631655
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365683,
+                "olay_numarasi": "20224500008",
+                "adi": "MANİSA - DEMİRCİ Jeomedikal Afet",
+                "olay_turu_id": 1283,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:13:59Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 45,
+                "ilce_uavt_code": 1269,
+                "mahalle_uavt_code": 154079,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "hxh",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:14:19.383Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Jeomedikal Afet",
+                "il_adi": "MANİSA",
+                "ilce_adi": "DEMİRCİ",
+                "mahalle_adi": "GÜRÇEŞME",
+                "olay_tarihi_local": "2022-07-06T20:13:59Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6c6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.94233773,
+                    38.88415111
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365682,
+                "olay_numarasi": "20224500007",
+                "adi": "MANİSA - SELENDİ Çamur Akması",
+                "olay_turu_id": 1442,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:12:50Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 45,
+                "ilce_uavt_code": 1613,
+                "mahalle_uavt_code": 155607,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "xfhx",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:13:01.782Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Çamur Akması",
+                "il_adi": "MANİSA",
+                "ilce_adi": "SELENDİ",
+                "mahalle_adi": "TEPEYNİHAN",
+                "olay_tarihi_local": "2022-07-06T20:12:50Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6c5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.20317438,
+                    39.05949002
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365681,
+                "olay_numarasi": "20224300011",
+                "adi": "KÜTAHYA - ŞAPHANE Boşaltma veya Tahliye veya Transfer",
+                "olay_turu_id": 1276,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:12:30Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 43,
+                "ilce_uavt_code": 1843,
+                "mahalle_uavt_code": 51661,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "ghxf",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:12:40.960Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Boşaltma veya Tahliye veya Transfer",
+                "il_adi": "KÜTAHYA",
+                "ilce_adi": "ŞAPHANE",
+                "mahalle_adi": "SUBAŞI",
+                "olay_tarihi_local": "2022-07-06T20:12:30Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6c4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8683402,
+                    39.19490617
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365680,
+                "olay_numarasi": "20224300010",
+                "adi": "KÜTAHYA - SİMAV Bomba Tehtidi",
+                "olay_turu_id": 1233,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:12:09Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 43,
+                "ilce_uavt_code": 1625,
+                "mahalle_uavt_code": 51607,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "sfhsx",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:12:21.354Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Bomba Tehtidi",
+                "il_adi": "KÜTAHYA",
+                "ilce_adi": "SİMAV",
+                "mahalle_adi": "SAVCILAR",
+                "olay_tarihi_local": "2022-07-06T20:12:09Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6c3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.03506206,
+                    39.11174751
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365679,
+                "olay_numarasi": "20224300009",
+                "adi": "KÜTAHYA - SİMAV Baraj Patlaması",
+                "olay_turu_id": 1261,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:11:22Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 43,
+                "ilce_uavt_code": 1625,
+                "mahalle_uavt_code": 51602,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "ara",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:11:32.141Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Baraj Patlaması",
+                "il_adi": "KÜTAHYA",
+                "ilce_adi": "SİMAV",
+                "mahalle_adi": "MURADINLAR",
+                "olay_tarihi_local": "2022-07-06T20:11:22Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6c2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.03019116,
+                    39.11319599
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365678,
+                "olay_numarasi": "20224300008",
+                "adi": "KÜTAHYA - SİMAV Ateşli Silahla Eylem",
+                "olay_turu_id": 150000000,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:11:09Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 43,
+                "ilce_uavt_code": 1625,
+                "mahalle_uavt_code": 51602,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "arra",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:11:17.731Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Ateşli Silahla Eylem",
+                "il_adi": "KÜTAHYA",
+                "ilce_adi": "SİMAV",
+                "mahalle_adi": "MURADINLAR",
+                "olay_tarihi_local": "2022-07-06T20:11:09Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6c1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.03368876,
+                    39.11276311
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365677,
+                "olay_numarasi": "20224300007",
+                "adi": "KÜTAHYA - SİMAV Aşırı Sıcak",
+                "olay_turu_id": 1144,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:10:54Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 43,
+                "ilce_uavt_code": 1625,
+                "mahalle_uavt_code": 51602,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "eawrwa",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:11:05.195Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Aşırı Sıcak",
+                "il_adi": "KÜTAHYA",
+                "ilce_adi": "SİMAV",
+                "mahalle_adi": "MURADINLAR",
+                "olay_tarihi_local": "2022-07-06T20:10:54Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6c0",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.03366836,
+                    39.23187074
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365676,
+                "olay_numarasi": "20224300006",
+                "adi": "KÜTAHYA - SİMAV Aşırı Kar Tipi Yağışı",
+                "olay_turu_id": 1134,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:10:39Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 43,
+                "ilce_uavt_code": 1625,
+                "mahalle_uavt_code": 51644,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "hujkl",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:10:49.506Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Aşırı Kar Tipi Yağışı",
+                "il_adi": "KÜTAHYA",
+                "ilce_adi": "SİMAV",
+                "mahalle_adi": "YENİ (YEMİŞLİ)",
+                "olay_tarihi_local": "2022-07-06T20:10:39Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6bf",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.28670046,
+                    39.17372634
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365675,
+                "olay_numarasi": "20224300005",
+                "adi": "KÜTAHYA - HİSARCIK Aşırı Don ve Buzlanma",
+                "olay_turu_id": 1145,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:10:21Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 43,
+                "ilce_uavt_code": 1802,
+                "mahalle_uavt_code": 51568,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "nmçö",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:10:34.624Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Aşırı Don ve Buzlanma",
+                "il_adi": "KÜTAHYA",
+                "ilce_adi": "HİSARCIK",
+                "mahalle_adi": "GAZİ (DEREKÖY)",
+                "olay_tarihi_local": "2022-07-06T20:10:21Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6be",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.36347516,
+                    39.08241673
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365674,
+                "olay_numarasi": "20224500006",
+                "adi": "MANİSA - GÖRDES Asit Yağmuru",
+                "olay_turu_id": 1247,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:09:59Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 45,
+                "ilce_uavt_code": 1362,
+                "mahalle_uavt_code": 154331,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "ghjkl",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:10:14.820Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Asit Yağmuru",
+                "il_adi": "MANİSA",
+                "ilce_adi": "GÖRDES",
+                "mahalle_adi": "KOBAKLAR",
+                "olay_tarihi_local": "2022-07-06T20:09:59Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6bd",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.03248713,
+                    39.10696065
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365673,
+                "olay_numarasi": "20224300004",
+                "adi": "KÜTAHYA - SİMAV Zorunlu Toplu Göç Mülteci",
+                "olay_turu_id": 1231,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:08:45Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 43,
+                "ilce_uavt_code": 1625,
+                "mahalle_uavt_code": 51602,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "dfghj",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:09:17.346Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Zorunlu Toplu Göç Mülteci",
+                "il_adi": "KÜTAHYA",
+                "ilce_adi": "SİMAV",
+                "mahalle_adi": "MURADINLAR",
+                "olay_tarihi_local": "2022-07-06T20:08:45Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6bc",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.66205032,
+                    39.35553794
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365672,
+                "olay_numarasi": "20224300003",
+                "adi": "KÜTAHYA - ÇAVDARHİSAR İzdiham",
+                "olay_turu_id": 1236,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:08:19Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 43,
+                "ilce_uavt_code": 1898,
+                "mahalle_uavt_code": 55144,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "fghjkl",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:08:32.336Z",
+                "muhtemel_olay": false,
+                "olay_turu": "İzdiham",
+                "il_adi": "KÜTAHYA",
+                "ilce_adi": "ÇAVDARHİSAR",
+                "mahalle_adi": "KÖYÜN KENDİSİ (GÖKLER)",
+                "olay_tarihi_local": "2022-07-06T20:08:19Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6bb",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.0687886,
+                    38.43207669
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365671,
+                "olay_numarasi": "20226400004",
+                "adi": "UŞAK - EŞME İnfilak Patlama",
+                "olay_turu_id": 1275,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:08:01Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 64,
+                "ilce_uavt_code": 1323,
+                "mahalle_uavt_code": 80503,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "jklşi",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:08:13.231Z",
+                "muhtemel_olay": false,
+                "olay_turu": "İnfilak Patlama",
+                "il_adi": "UŞAK",
+                "ilce_adi": "EŞME",
+                "mahalle_adi": "MERKEZ (AHMETLER)",
+                "olay_tarihi_local": "2022-07-06T20:08:01Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6ba",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.43269386,
+                    39.39859429
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365670,
+                "olay_numarasi": "20221000010",
+                "adi": "BALIKESİR - BİGADİÇ Çevresel Kirlenme",
+                "olay_turu_id": 1241,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-06T17:07:01Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 10,
+                "ilce_uavt_code": 1191,
+                "mahalle_uavt_code": 147389,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "klş",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-06T17:07:20.247Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Çevresel Kirlenme",
+                "il_adi": "BALIKESİR",
+                "ilce_adi": "BİGADİÇ",
+                "mahalle_adi": "AŞAĞIGÖCEK",
+                "olay_tarihi_local": "2022-07-06T20:07:01Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6b9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.68665569,
+                    39.83634743
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150364644,
+                "olay_numarasi": "20220600028",
+                "adi": "ANKARA - ÇANKAYA Kıyı Seli",
+                "olay_turu_id": 1166,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-07-01T10:19:14Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 6,
+                "ilce_uavt_code": 1231,
+                "mahalle_uavt_code": 1899,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "sdf",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-07-01T10:19:33.449Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Kıyı Seli",
+                "il_adi": "ANKARA",
+                "ilce_adi": "ÇANKAYA",
+                "mahalle_adi": "ALACAATLI",
+                "olay_tarihi_local": "2022-07-01T13:19:14Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6b8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.96821001,
+                    37.34878923
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150285776,
+                "olay_numarasi": "20226300007",
+                "adi": "ŞANLIURFA - HALFETİ Elektrik Hattı Kazası Problemi",
+                "olay_turu_id": 1262,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-30T17:21:06Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 63,
+                "ilce_uavt_code": 1378,
+                "mahalle_uavt_code": 184754,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "burak test",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150000016,
+                "kayit_tarihi": "2022-06-30T17:21:28.498Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Elektrik Hattı Kazası Problemi",
+                "il_adi": "ŞANLIURFA",
+                "ilce_adi": "HALFETİ",
+                "mahalle_adi": "YENİ",
+                "olay_tarihi_local": "2022-06-30T20:21:06Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6b7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.62890625,
+                    40.04443758
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150283760,
+                "olay_numarasi": "20221900004",
+                "adi": "ÇORUM - BOĞAZKALE Aşırı Kar Tipi Yağışı",
+                "olay_turu_id": 1134,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-30T16:52:30Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 19,
+                "ilce_uavt_code": 1778,
+                "mahalle_uavt_code": 20394,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "test",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050226,
+                "kayit_tarihi": "2022-06-30T16:52:43.518Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Aşırı Kar Tipi Yağışı",
+                "il_adi": "ÇORUM",
+                "ilce_adi": "BOĞAZKALE",
+                "mahalle_adi": "FATİH (YEKBAS)",
+                "olay_tarihi_local": "2022-06-30T19:52:30Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6b6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.15790855,
+                    38.66616944
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150273522,
+                "olay_numarasi": "20223800004",
+                "adi": "KAYSERİ - İNCESU Asit Yağmuru",
+                "olay_turu_id": 1247,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-30T11:44:48Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 38,
+                "ilce_uavt_code": 1409,
+                "mahalle_uavt_code": 181105,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "ferf",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-06-30T11:45:02.912Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Asit Yağmuru",
+                "il_adi": "KAYSERİ",
+                "ilce_adi": "İNCESU",
+                "mahalle_adi": "ÜÇKUYU",
+                "olay_tarihi_local": "2022-06-30T14:44:48Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6b5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.75686646,
+                    41.9715742
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150365518,
+                "olay_numarasi": "20223700773",
+                "adi": "KASTAMONU - İNEBOLU Su Baskını",
+                "olay_turu_id": 1136,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-27T08:20:08Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 37,
+                "ilce_uavt_code": 1410,
+                "mahalle_uavt_code": 41873,
+                "afad_mudahale_durumu": true,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "İlimizde devam eden aşırı yağışlar nedeniyle, su baskını vb olumsuzluklar meydana gelmektedir. Olaylara müdahale çalışmaları devam etmektedir. İzmir ilinden 29.06.2022 tarihi itibari ile Kastamonu ili Bozkurt ilçesine görevlendirilen araç ve personel bilgisi: 10 adet bobcat, 1 adet öncü araç, 4 adet kasalı kamyon, 2 adet acktros çekici, 1 adet kazıcı yükleyici, 1 adet treyler, 1 adet alp mini yükleyici, ve 24 personel görevlendirilmiştir. ",
+                "olay_seviyesi": 3,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150005500,
+                "kayit_tarihi": "2022-06-27T08:22:35.645Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Su Baskını",
+                "il_adi": "KASTAMONU",
+                "ilce_adi": "İNEBOLU",
+                "mahalle_adi": "AŞAĞIHATİPBAĞI",
+                "olay_tarihi_local": "2022-06-27T11:20:08Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6b4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.86380114,
+                    39.93110339
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150162144,
+                "olay_numarasi": "20220600027",
+                "adi": "ANKARA - ALTINDAĞ Bomba Tehtidi",
+                "olay_turu_id": 1233,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-25T11:24:02Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 6,
+                "ilce_uavt_code": 1130,
+                "mahalle_uavt_code": 1472,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "asdas",
+                "olay_seviyesi": 2,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050230,
+                "kayit_tarihi": "2022-06-25T11:25:14.992Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Bomba Tehtidi",
+                "il_adi": "ANKARA",
+                "ilce_adi": "ALTINDAĞ",
+                "mahalle_adi": "HACETTEPE",
+                "olay_tarihi_local": "2022-06-25T14:24:02Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6b3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.63264087,
+                    38.17071304
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150162101,
+                "olay_numarasi": "20226800003",
+                "adi": "AKSARAY - SULTANHANI Diğer Ulaşım ve Taşımacılık Kazaları",
+                "olay_turu_id": 1206,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-24T15:38:03Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 68,
+                "ilce_uavt_code": 2106,
+                "mahalle_uavt_code": 89986,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "sferef",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-06-24T15:38:47.039Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Diğer Ulaşım ve Taşımacılık Kazaları",
+                "il_adi": "AKSARAY",
+                "ilce_adi": "SULTANHANI",
+                "mahalle_adi": "GAZİ",
+                "olay_tarihi_local": "2022-06-24T18:38:03Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6b2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.83566023,
+                    39.61024913
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150162100,
+                "olay_numarasi": "20227100008",
+                "adi": "KIRIKKALE - KESKİN Karayolu Araç Kazaları",
+                "olay_turu_id": 1204,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-24T15:37:26Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 71,
+                "ilce_uavt_code": 1463,
+                "mahalle_uavt_code": 93138,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "weefs",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-06-24T15:37:40.835Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Karayolu Araç Kazaları",
+                "il_adi": "KIRIKKALE",
+                "ilce_adi": "KESKİN",
+                "mahalle_adi": "KÖYÜN KENDİSİ (BEŞLER)",
+                "olay_tarihi_local": "2022-06-24T18:37:26Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6b1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.16042195,
+                    39.15006341
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150162034,
+                "olay_numarasi": "20224000007",
+                "adi": "KIRŞEHİR - MERKEZ Hortum",
+                "olay_turu_id": 1137,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-22T19:39:46Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 40,
+                "ilce_uavt_code": 1472,
+                "mahalle_uavt_code": 50002,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "deneme ",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-06-22T19:40:33.335Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Hortum",
+                "il_adi": "KIRŞEHİR",
+                "ilce_adi": "MERKEZ",
+                "mahalle_adi": "AHİEVRAN",
+                "olay_tarihi_local": "2022-06-22T22:39:46Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6b0",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.27086476,
+                    40.93821308
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150162010,
+                "olay_numarasi": "20226100004",
+                "adi": "TRABZON - OF Su Baskını",
+                "olay_turu_id": 1136,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-22T11:39:02Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 61,
+                "ilce_uavt_code": 1548,
+                "mahalle_uavt_code": 80064,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "su baskınıııııııııııı",
+                "olay_seviyesi": 2,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050371,
+                "kayit_tarihi": "2022-06-22T11:40:33.161Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Su Baskını",
+                "il_adi": "TRABZON",
+                "ilce_adi": "OF",
+                "mahalle_adi": "İRFANLI",
+                "olay_tarihi_local": "2022-06-22T14:39:02Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6af",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.08768098,
+                    38.35385364
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150162009,
+                "olay_numarasi": "20224200016",
+                "adi": "KONYA - ALTINEKİN Bomba Tehtidi",
+                "olay_turu_id": 1233,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-22T11:37:04Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 42,
+                "ilce_uavt_code": 1760,
+                "mahalle_uavt_code": 195149,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "yttyetytr",
+                "olay_seviyesi": 3,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050371,
+                "kayit_tarihi": "2022-06-22T11:37:54.860Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Bomba Tehtidi",
+                "il_adi": "KONYA",
+                "ilce_adi": "ALTINEKİN",
+                "mahalle_adi": "OĞUZELİ",
+                "olay_tarihi_local": "2022-06-22T14:37:04Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6ae",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.38944297,
+                    37.28419482
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150162003,
+                "olay_numarasi": "20224800008",
+                "adi": "MUĞLA - MENTEŞE Orman Yangını",
+                "olay_turu_id": 1152,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-22T10:32:34Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 48,
+                "ilce_uavt_code": 2089,
+                "mahalle_uavt_code": 176001,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "deneme yangın",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-06-22T10:44:31.801Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Orman Yangını",
+                "il_adi": "MUĞLA",
+                "ilce_adi": "MENTEŞE",
+                "mahalle_adi": "İKİZCE",
+                "olay_tarihi_local": "2022-06-22T13:32:34Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6ad",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.07453266,
+                    36.83340354
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150522437,
+                "olay_numarasi": "20224800153",
+                "adi": "MUĞLA - MARMARİS Orman Yangını",
+                "olay_turu_id": 1152,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-21T19:51:41Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 48,
+                "ilce_uavt_code": 1517,
+                "mahalle_uavt_code": 176445,
+                "afad_mudahale_durumu": true,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "Marmaris Hisarönü Mahallesi Bördüpet, Amazon Koyu ormanlık alanında yangın başladığı ihbarı alındı.  Yakın Bölgedeki tüm Orman ve İtfaiye araçlarıyla yangına müdahale edilmektedir. Orman, İtfaiye, Afad, Jandarma, Sağlık Kurumları vakaya müdahale etmektedir.",
+                "olay_seviyesi": 3,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150005290,
+                "kayit_tarihi": "2022-06-21T21:02:03.540Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Orman Yangını",
+                "il_adi": "MUĞLA",
+                "ilce_adi": "MARMARİS",
+                "mahalle_adi": "HİSARÖNÜ",
+                "olay_tarihi_local": "2022-06-21T22:51:41Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6ac",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.71374145,
+                    38.01375603
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150161960,
+                "olay_numarasi": "20224200015",
+                "adi": "KONYA - EMİRGAZİ Diğer Ulaşım ve Taşımacılık Kazaları",
+                "olay_turu_id": 1206,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-21T14:17:42Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 42,
+                "ilce_uavt_code": 1920,
+                "mahalle_uavt_code": 51041,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "duk",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-06-21T14:17:55.384Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Diğer Ulaşım ve Taşımacılık Kazaları",
+                "il_adi": "KONYA",
+                "ilce_adi": "EMİRGAZİ",
+                "mahalle_adi": "FATİH",
+                "olay_tarihi_local": "2022-06-21T17:17:42Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6ab",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.84166017,
+                    39.37993279
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150161958,
+                "olay_numarasi": "20220600026",
+                "adi": "ANKARA - GÖLBAŞI Karayolu Araç Kazaları",
+                "olay_turu_id": 1204,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-21T14:15:18Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 6,
+                "ilce_uavt_code": 1744,
+                "mahalle_uavt_code": 177851,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "kak",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-06-21T14:15:33.208Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Karayolu Araç Kazaları",
+                "il_adi": "ANKARA",
+                "ilce_adi": "GÖLBAŞI",
+                "mahalle_adi": "EMİRLER",
+                "olay_tarihi_local": "2022-06-21T17:15:18Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6aa",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.63416279,
+                    39.22259932
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150161957,
+                "olay_numarasi": "20220600025",
+                "adi": "ANKARA - HAYMANA Kaybolma",
+                "olay_turu_id": 1272,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-21T14:14:09Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 6,
+                "ilce_uavt_code": 1387,
+                "mahalle_uavt_code": 178477,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "kaybolma",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-06-21T14:14:29.112Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Kaybolma",
+                "il_adi": "ANKARA",
+                "ilce_adi": "HAYMANA",
+                "mahalle_adi": "ÇELTİKLİ",
+                "olay_tarihi_local": "2022-06-21T17:14:09Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6a9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.17272287,
+                    39.48922291
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150161956,
+                "olay_numarasi": "20222600004",
+                "adi": "ESKİŞEHİR - SİVRİHİSAR Mahsur Kalma",
+                "olay_turu_id": 1274,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-21T14:13:24Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 26,
+                "ilce_uavt_code": 1632,
+                "mahalle_uavt_code": 191411,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "sfas",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-06-21T14:13:35.599Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Mahsur Kalma",
+                "il_adi": "ESKİŞEHİR",
+                "ilce_adi": "SİVRİHİSAR",
+                "mahalle_adi": "KAYMAZ",
+                "olay_tarihi_local": "2022-06-21T17:13:24Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6a8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.66698571,
+                    39.45464938
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150161945,
+                "olay_numarasi": "20225800019",
+                "adi": "SİVAS - MERKEZ Dolu Yağışı",
+                "olay_turu_id": 1139,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-21T10:41:04Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 58,
+                "ilce_uavt_code": 1628,
+                "mahalle_uavt_code": 76523,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "dolu oear",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-06-21T10:41:22.585Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Dolu Yağışı",
+                "il_adi": "SİVAS",
+                "ilce_adi": "MERKEZ",
+                "mahalle_adi": "KÖYÜN KENDİSİ (HANLI)",
+                "olay_tarihi_local": "2022-06-21T13:41:04Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6a7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.26462457,
+                    41.12559984
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150161944,
+                "olay_numarasi": "20225300003",
+                "adi": "RİZE - FINDIKLI Duman",
+                "olay_turu_id": 1281,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-21T10:31:54Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 53,
+                "ilce_uavt_code": 1332,
+                "mahalle_uavt_code": 68554,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": "duman oer",
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": 150050380,
+                "kayit_tarihi": "2022-06-21T10:32:32.358Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Duman",
+                "il_adi": "RİZE",
+                "ilce_adi": "FINDIKLI",
+                "mahalle_adi": "AYDINLIK (YAYLACILAR)",
+                "olay_tarihi_local": "2022-06-21T13:31:54Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "olay_last30days.fid-796fd2ca_1821e24ecfb_-6a6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.6543,
+                    39.026
+                ]
+            },
+            "geometry_name": "location",
+            "properties": {
+                "id": 150161943,
+                "olay_numarasi": "20226500005",
+                "adi": "Van - Muradiye - DEPREM",
+                "olay_turu_id": 1042,
+                "olay_durum_id": 1,
+                "olay_tarihi": "2022-06-21T10:10:57Z",
+                "olay_bitis_tarihi": null,
+                "il_uavt_code": 65,
+                "ilce_uavt_code": 1533,
+                "mahalle_uavt_code": 159447,
+                "afad_mudahale_durumu": false,
+                "olay_sebebi": null,
+                "olay_aciklamasi": null,
+                "olay_seviyesi": 1,
+                "olay_konum_tipi_id": 1,
+                "kullanici_id": null,
+                "kayit_tarihi": "2022-06-21T10:21:00.388Z",
+                "muhtemel_olay": false,
+                "olay_turu": "Deprem",
+                "il_adi": "VAN",
+                "ilce_adi": "MURADİYE",
+                "mahalle_adi": "ALKASNAK",
+                "olay_tarihi_local": "2022-06-21T13:10:57Z"
+            }
+        }
+    ],
+    "totalFeatures": 59,
+    "numberMatched": 59,
+    "numberReturned": 59,
+    "timeStamp": "2022-07-21T08:22:40.540Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}
