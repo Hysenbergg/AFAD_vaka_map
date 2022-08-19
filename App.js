@@ -1,9 +1,8 @@
 import React, { useState} from 'react';
 import MapView from "react-native-map-clustering";  // culstering kümeleme
 import { Marker } from "react-native-maps";
-import { StyleSheet, Text, View} from 'react-native';
+import { StyleSheet, View} from 'react-native';
 import vakalar from './Son 30 Gün olay Listesi.json';
-import { DebugInstructions } from 'react-native/Libraries/NewAppScreen';
 
 
 export default function App() {
@@ -32,8 +31,9 @@ export default function App() {
                   }}
                   title={item.properties.adi}
                   key={item.id}
+                  tracksViewChanges={false}
+                  icon={require("./src/images/icons8-pointer-48.png")}
                 >
-                  <Text style={{fontSize:30}}>💥</Text>
                 </Marker>
               )   
             }
